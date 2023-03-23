@@ -8,7 +8,7 @@ interface ButtonContainerProps {
 
 const buttonVariants = {
     primary: 'purple',
-    secondary: 'orange',
+    secundary: 'orange',
     danger: 'red',
     success: 'green'
 }
